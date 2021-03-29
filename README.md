@@ -1,4 +1,4 @@
-# Připomínkovací řízení
+# Připomínková řízení
 
 Kromě tradičního podání připomínek e-mailem nabízíme možnost připomínkovat normy veřejně prostřednictvím platformy GitHub.
 
